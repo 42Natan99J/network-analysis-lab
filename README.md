@@ -166,7 +166,7 @@ sha256sum arquivo-exportado
 
 **Data:** 02/06/2026  
 **Analista:** Natan Almeida  
-**Severidade:** Severidade  
+**Severidade:** Alta  
 **Status:** Investigado
 
 | Campo | Detalhe |
