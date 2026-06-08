@@ -175,7 +175,7 @@ sha256sum arquivo-exportado
 | Hosts envolvidos | Não aplicável - exercicío de referência |
 | Protocolos | DNS / HTTP / TCP |
 | Anomalia principal | DNS anômalo / tráfego HTTP sem criptografia |
-| Período do tráfego | Não aplicável - exercicío de refência |
+| Período do tráfego | Não aplicável - exercicío de referência |
 | Arquivos exportados | Não |
 | Hash SHA256 | Não aplicável |
 | Resultado VirusTotal | Não aplicável |
