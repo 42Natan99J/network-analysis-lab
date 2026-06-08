@@ -172,12 +172,12 @@ sha256sum arquivo-exportado
 | Campo | Detalhe |
 |---|---|
 | Tipo de incidente | Tráfego de rede anômalo identificado em pcap |
-| `Hosts envolvidos´ | [Não aplicável - exercicío de referência] |
-| `Protocolos´ | DNS / HTTP / TCP |
+| Hosts envolvidos | Não aplicável - exercicío de referência |
+| Protocolos | DNS / HTTP / TCP |
 | Anomalia principal | DNS anômalo / tráfego HTTP sem criptografia |
-| Período do tráfego | [Não aplicável - exercicío de refência] |
+| Período do tráfego | Não aplicável - exercicío de refência |
 | Arquivos exportados | Não |
-| Hash SHA256 | [Não aplicável] |
+| Hash SHA256 | Não aplicável |
 | Resultado VirusTotal | Não aplicável |
 | Ação recomendada | Bloquear IP / Isolar host / Escalar para N2 |
 | Escalonamento | Não |
