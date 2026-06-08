@@ -164,7 +164,7 @@ sha256sum arquivo-exportado
 
 ### 📋 Relatório de Incidente — Tráfego Anômalo
 
-**Data:** [data do exercício]  
+**Data:** 02/06/2026  
 **Analista:** Natan Almeida  
 **Severidade:** Alta  
 **Status:** Investigado
@@ -172,15 +172,15 @@ sha256sum arquivo-exportado
 | Campo | Detalhe |
 |---|---|
 | Tipo de incidente | Tráfego de rede anômalo identificado em pcap |
-| Hosts envolvidos | [IPs identificados] |
+| Hosts envolvidos | [Não aplicável - exercicío de referência] |
 | Protocolos suspeitos | DNS / HTTP / TCP |
-| Anomalia principal | [ex: alto volume de NXDOMAIN / conexão C2 / exfiltração] |
-| Período do tráfego | [timestamp inicial — timestamp final] |
-| Arquivos exportados | Sim / Não |
-| Hash SHA256 | [hash se aplicável] |
-| Resultado VirusTotal | Limpo / Detectado / Não encontrado |
+| Anomalia principal | [DNS anômalo / tráfego HTTP sem criptografia] |
+| Período do tráfego | [Não aplicável - exercicío de refência] |
+| Arquivos exportados | Não |
+| Hash SHA256 | [Não aplicável] |
+| Resultado VirusTotal | Não aplicável |
 | Ação recomendada | Bloquear IP / Isolar host / Escalar para N2 |
-| Escalonamento | Sim / Não |
+| Escalonamento | Não |
 
 ---
 
