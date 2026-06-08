@@ -166,15 +166,15 @@ sha256sum arquivo-exportado
 
 **Data:** 02/06/2026  
 **Analista:** Natan Almeida  
-**Severidade:** Alta  
+**Severidade:** Severidade  
 **Status:** Investigado
 
 | Campo | Detalhe |
 |---|---|
 | Tipo de incidente | Tráfego de rede anômalo identificado em pcap |
-| Hosts envolvidos | [Não aplicável - exercicío de referência] |
-| Protocolos suspeitos | DNS / HTTP / TCP |
-| Anomalia principal | [DNS anômalo / tráfego HTTP sem criptografia] |
+| `Hosts envolvidos´ | [Não aplicável - exercicío de referência] |
+| `Protocolos´ | DNS / HTTP / TCP |
+| Anomalia principal | DNS anômalo / tráfego HTTP sem criptografia |
 | Período do tráfego | [Não aplicável - exercicío de refência] |
 | Arquivos exportados | Não |
 | Hash SHA256 | [Não aplicável] |
